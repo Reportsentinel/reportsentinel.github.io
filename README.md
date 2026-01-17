@@ -1,7 +1,6 @@
 # Survivor-s-guide-for-NCII-and-CSAM---Kerala-Specific
 # Repository Contents
 
-- LICENSE.txt - This repository is licensed under CC BY 4.0.
 - 14-page-guide.pdf - Original work, licensed under CC BY 4.0.
 - SOP NCII MEITY V1.pdf - Owned by the Government of India, not licensed under CC BY 4.0. For reference only.
 - See original source:
